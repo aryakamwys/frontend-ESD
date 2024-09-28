@@ -1,16 +1,7 @@
-# esd_project
+Team Name : MENYALA PROJECTKU
 
-A new Flutter project.
+Our product : EcoMeal
 
-## Getting Started
+Team members : PM : Ardhava Fathi Rafi FE : Muhammad Arya Kamal BE : Muhammad Ardi Pradiva Dezza UIUX : Muhammad Rafi Syihan, Alfina Nur Fadilla
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Brief explanation : Ecomeal adalah aplikasi yang berfokus pada penyelenggaraan event donasi dan layanan e-truck untuk pembuangan sampah secara terintegrasi. Aplikasi ini bertujuan untuk mendukung Tujuan Pembangunan Berkelanjutan (SDG) No. 2 dan 15, yaitu Zero Hunger dan Life on Land, dengan menghubungkan komunitas, organisasi, dan individu yang ingin berkontribusi dalam mengatasi kelaparan serta mengurangi limbah makanan.
