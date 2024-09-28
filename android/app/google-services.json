@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052313478519",
+    "project_id": "eco-meal",
+    "storage_bucket": "eco-meal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052313478519:android:cd33f97b9602aa96e9ad72",
+        "android_client_info": {
+          "package_name": "com.example.esd_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjZEhp5AiWrHkToQ9W3Q8Fji3SUSE9y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
